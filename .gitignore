@@ -1,0 +1,5 @@
+*.o
+*.log
+*.trs
+autom4te.cache/
+.deps/
